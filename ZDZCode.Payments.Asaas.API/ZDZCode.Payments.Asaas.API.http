@@ -1,0 +1,6 @@
+@ZDZCode.Payments.Asaas.API_HostAddress = http://localhost:5030
+
+GET {{ZDZCode.Payments.Asaas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
